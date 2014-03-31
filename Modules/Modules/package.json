@@ -1,0 +1,10 @@
+{
+  "name": "Modules",
+  "version": "0.0.0",
+  "description": "Modules",
+  "main": "app.js",
+  "author": {
+    "name": "dgartne",
+    "email": ""
+  }
+}

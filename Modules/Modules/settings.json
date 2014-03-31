@@ -1,0 +1,4 @@
+﻿{
+  "appname": "Modules",
+  "dbconnection": "./SQLEXPRESS;DB=mydb"
+}
